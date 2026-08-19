@@ -16,8 +16,6 @@ I like to see programming not just as a set of languages ​​or tools, but as 
 - 🌱 I’m currently learning ...
   - Java
   - Databases
-- ✔ I’m looking forward to collaborate on open source projects.
-- Outside tech, 💜I love 🎮 playing videogames, 🎵 listening to music, and 📖 reading Science / Astronomy books.
 - 📫 Reach out to me at: <a href="rafael845jr@gmail.com">rafael845jr@gmail.com</a>
 
 <h2> My Skills Include <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>

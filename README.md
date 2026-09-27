@@ -13,9 +13,7 @@
 I'm passionate about technology and am currently beginning my career in Software Development. Since embarking on this path, I've had the opportunity to participate in national projects, which has allowed me to develop technical skills, work in a team, and experience firsthand how an idea can be transformed into a real solution that has a positive impact.
 
 I like to see programming not just as a set of languages ​​or tools, but as a way to create, improve, and connect ideas with people. I'm constantly learning because I believe technology is advancing rapidly, and I want to grow with it.
-- 🌱 I’m currently learning ...
-  - Java
-  - Databases
+
 - 📫 Reach out to me at: <a href="rafael845jr@gmail.com">rafael845jr@gmail.com</a>
 
 <h2> My Skills Include <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
